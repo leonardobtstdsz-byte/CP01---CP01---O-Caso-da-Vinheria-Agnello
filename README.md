@@ -9,3 +9,10 @@ O projeto tem como proposta elaborar um sistema que faça a captura das informa�
 
 ## Dependências e Reprodução do projeto
 Para reproduzir o projeto em mãos, será necessário um Arduino modelo UNO, um BreadBoard, 3 Leds de cores verde, vermelho e amarelo, 6 resistores de resistencias:" ", um buzzer para o alarme, um sensor para captura das informações de luminosidade do ambiente, e por fim, um display de LCD para simular a logo da empresa.
+
+## Membros do Projeto
+- Nicolas Forcione de Oliveira e Souza 
+- Enrico Dellatorre da Fonseca
+- Alexandre Constantino Furtado Junior
+- Leonardo Batista de Souza
+- Matheus Freitas dos Santos
